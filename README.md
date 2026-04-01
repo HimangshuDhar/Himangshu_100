@@ -18,10 +18,6 @@ I am passionate about data analytics and software development, with skills in Py
 
 ## Projects
 
-### Three Phase Transmission Line Fault Detection
-- Developed a system to detect faults in a three-phase transmission line  
-- Improved fault identification for electrical systems  
-
 ### Eye Controlled Mouse System
 - Built a system to control mouse using eye movements  
 - Focused on accessibility and hands-free interaction  
